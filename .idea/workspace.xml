@@ -2,40 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c0f6ef2-b5fd-44f1-97bb-7555be690ddc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webdevelopment.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Lost_Frequencies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Mystical_Hogwarts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Pasfoto_2023.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/images/htmldog.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_2/opdracht_9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/assignments/contact_information_assignment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/opdracht_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/opdracht_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/opdracht_opleidingsaanbod.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/Screenshot_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/Screenshot_70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/Screenshot_original.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/tiger_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/tiger_70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/tiger_90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/images/tiger_original.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/personal_homepage_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_homepage/images/Lost_Frequencies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_homepage/images/Mystical_Hogwarts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_homepage/images/Pasfoto_2023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_homepage/personal_homepage_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_homepage/personal_homepage_2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697225018121</updated>
-      <workItem from="1697225019162" duration="77000" />
+      <workItem from="1697225019162" duration="234000" />
     </task>
     <servers />
   </component>
